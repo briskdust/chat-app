@@ -18,7 +18,7 @@ const Join = () => {
   return (
     <JoinPage>
       <div className="container">
-        <h1 className="heading">Join</h1>
+        <h2 className="heading">Welcome to the Chatroom, Azalea ^_^</h2>
         <input
           className="joinInput"
           placeholder="name"
